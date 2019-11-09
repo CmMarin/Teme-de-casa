@@ -1,0 +1,27 @@
+1. HTTP este un protocol de comunicare (transportare de date) creat pentru a conecta browser-ele 
+   cu serverele care gazduiesc site-uri web. Raspundeti la intrebarea:
+      - Ce reprezinta un protocol de comunicare?
+        * protocol de comunicare - set de reguli ce sunt folosite de device-uri pentru a comunica
+
+2. Comunicarea dintre client (browser) si server (website) seamana cu un dialog. 
+   Raspundeti in termeni tehnici in limba Engleza
+      - Clientul trimite un request
+      - Serverul trimite ca rezultat un R&R (response and resources)
+
+3. Un website reprezinta un set de pagini legate intre ele si o aplicatie disponibila printr-o adresa unica 
+   sau o denumire de domeniu in spatiul public al internetului.
+    - Ce reprezinta un domeniu?
+      * Domeniul reprezinta o colectie de host-uri
+
+4. Hosting este un set de servicii menit sa intretina (gazduiasca) paginili si site-urile Web. 
+    - Numiti 3 adrese ale website-urilor unor companii care ofera hosting:
+      * hostgator.com
+      * godaddy.com
+      * bluehost.com
+
+5. Limbajul HTML este cel ce ne permite sa structuram un document
+   accentul fiind pus pe cuvantul "Structura".
+    - ce reprezinta o structura din punctul dvs de vedere?
+      * Scheletul
+      * "Shape"
+      * Organizare
