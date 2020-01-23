@@ -1,0 +1,45 @@
+body{
+    background-color:#333344;
+    overflow: hidden;
+}
+
+#img{
+    transform: translateY(20vh);
+}
+
+#front{
+    position: absolute;
+    transform: translateX(8vw);
+}
+
+.LR{
+    position: relative;
+    z-index:-2;
+    transform: translateX(24vw) translateY(5vh);    
+}
+
+.small{
+    width: 10px;
+    height: 10px;
+    border: #D3D027 solid;
+    margin:5px;
+    float: left;
+    transform: translateX(48vw) translateY(32vh);
+}
+
+#full{
+    background-color: #D3D027;
+}
+
+.arrow1{
+    font-size: 50px;
+    color: #939133;
+    float: left;
+    transform: translateX(15vw) translateY(6vh);
+}
+
+.arrow2{
+    font-size: 50px;
+    color: #D3D027;
+    transform: translateX(72vw) translateY(6vh);
+}
